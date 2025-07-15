@@ -1,0 +1,5 @@
+{
+  "name": "Rock Lee's Data Engineering Dojo",
+  "description": "An interactive and gamified 14-day roadmap for Data Engineering, inspired by the theme of Rock Lee's Hidden Lotus. Users can register, log in, track their progress, and unlock new challenges as they advance.",
+  "requestFramePermissions": []
+}
